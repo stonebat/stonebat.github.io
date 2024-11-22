@@ -1,4 +1,4 @@
-# Startup Founder
+#   Developer & AI Enthusiast
 
 ## 👨‍💻 Experience
 ### Company Name (2020-Present)
