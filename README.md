@@ -4,7 +4,8 @@
 ## 👨‍💻 Experience
 ### AI Adventurer / Jun 2023 - Present
 - An early adopter of large language models, I leveraged ChatGPT's APIs to build a personal project, demonstrating my ability to stay current with evolving AI technologies.
-- Recognizing LangChain's potential, I further enhanced the codebase, showcasing my ability to learn and adapt to new tools. - My exploration of various open-source models, like Llama 2, has fostered a deep appreciation for their capabilities and potential.
+- Recognizing LangChain's potential, I further enhanced the codebase, showcasing my ability to learn and adapt to new tools.
+- My exploration of various open-source models, like Llama 2, has fostered a deep appreciation for their capabilities and potential.
 - I'm committed to continuing my journey in this exciting field through self-directed learning and engagement with online communities and participating local meet-up gatherings.
 
 ## 🔗 Links
