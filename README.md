@@ -13,6 +13,7 @@
 - Architected a cost-effective and highly performant AWS cloud infrastructure. Empowered a small team to rapidly acquire new skills, establishing a foundation for efficient coding practices, code reusability, and on-time product delivery to help millions of students.
 - Owned the full software development lifecycle for multiple years, seamlessly transitioning between architect, programmer, QA engineer, DevOps engineer, CloudOps engineer, and production support roles.
 - Interviewed all candidates and trained each newly joined programmer. Created a Linux docker image for have an identical workspace setup among developers to maximize productivity.
+
 #### Senior Software Contractor / Feb 2018 - Mar 2019
 - As a Senior Full-Stack Developer, I co-developed and delivered a high-impact project within a tight deadline, serving millions of SAT-taking students nationwide.
 - This project eliminated paper-based identity verification for SAT exams across the country, streamlining the process for students and proctors.
