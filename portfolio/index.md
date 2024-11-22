@@ -2,11 +2,14 @@
 
 ## 🤖 Featured Projects
 
-### ChatPDF [[Demo]](https://your-chatpdf.streamlit.app)
+### ChatPDF [[Demo]](https://ai-chatpdf-skymaker.streamlit.app/)
 AI-powered PDF analysis tool
 - Built with Streamlit and LangChain
-- Uses Claude 3.5 for intelligent responses
-- [Source Code](https://github.com/stonebat/chatpdf)
+- Uses OpenAI for intelligent responses
+- [Source Code](https://github.com/nobat/chatpdf)
 
-### [Your Other Project]
-// ...existing code...
+### AI Poet [Demo](https://mainpy-lbuqkhjxsyfthgagnnpqc4.streamlit.app/)
+AI-powered poet
+- Built with Streamlit and LangChain
+- Uses OpenAI for intelligent responses
+- [Source Code](https://github.com/nobat/poet)
