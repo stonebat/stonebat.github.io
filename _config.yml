@@ -1,9 +1,8 @@
 title: Won Cho
 email: stonebat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I can never be prepared for every minor detail. If I were, I would never make a single stroke on a blank canvas. As the saying goes, “You don’t need to be great to start, but you have to start to be great.” I may stumble and make mistakes along the journey, but I am resolute in my determination to remain agile and produce something of value. Looking back, I often find that such experiences transform challenging times into victories. This process of learning and growing is a cycle that repeats itself, each time turning adversity into achievement. It’s not about being ready for every little thing, but about taking the first step and learning as we go. That’s how we turn tough times into triumphs.
+  Developer & AI Enthusiast
 github_username:  stonebat
-
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
