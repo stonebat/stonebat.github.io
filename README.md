@@ -1,5 +1,5 @@
 # About Me
-  I can never be prepared for every minor detail. If I were, I would never make a single stroke on a blank canvas. As the saying goes, “You don’t need to be great to start, but you have to start to be great.” I may stumble and make mistakes along the journey, but I am resolute in my determination to remain agile and produce something of value. Looking back, I often find that such experiences transform challenging times into victories. This process of learning and growing is a cycle that repeats itself, each time turning adversity into achievement. It’s not about being ready for every little thing, but about taking the first step and learning as we go. That’s how we turn tough times into triumphs.
+I do not want to prepare for every detail; if I tried, I'd never begin. As the saying goes, 'You don’t need to be great to start, but you have to start to be great.' Mistakes are part of the journey, but determination turns challenges into triumphs. Progress comes from taking the first step and growing through the process.
 
 ## 👨‍💻 Experience
 ### AI Adventurer / Jun 2023 - Present
